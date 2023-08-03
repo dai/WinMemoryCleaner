@@ -12,7 +12,7 @@
   "ErrorAdminPrivilegeRequired": "この操作を行うには管理者権限が必要です ({0})",
   "ErrorCanNotSaveLog": "ログを保存できません: {0} (除外: {1})",
   "ErrorFeatureIsNotSupported": "このOSバージョンでは {0} のクリーニングはサポートしてません",
-  "Every": "毎",
+  "Every": "間隔（時間）",
   "Exit": "終了",
   "Free": "フリー",
   "HotkeyIsInUseByWindows": "ホットキー ({0}) は Windows で使用されています",
